@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Symposium Notes
+description: Imagine never having to take notes again. Symposium Notes is your AI-powered assistant that records, transcribes, and summarizes your lectures, meetings allowing you to pay full attention.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+redirect: https://devpost.com/software/symposium-notes
+importance: 1
 category: work
 ---
 
