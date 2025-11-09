@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. (716)400-0023. Motto. Etc.
+subtitle: "Make time for adventure."
 
 profile:
   align: right
   image: temp_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Buffalo, NY</p>
-#    <p></p>
+    <p>Cell: (716)400-0023</p>
+    <p>Email: jgh2906@rit.edu</p>
 #    <p></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

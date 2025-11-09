@@ -5,7 +5,7 @@ description: Pick a movement, case, dial, hands, crown, and strap from community
 img: assets/img/7.jpg
 redirect: https://devpost.com/software/timetailor
 importance: 2
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

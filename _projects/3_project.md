@@ -5,7 +5,7 @@ description: Imagine never having to take notes again. Symposium Notes is your A
 img: assets/img/time-tailor-thumbnail.png
 redirect: https://devpost.com/software/symposium-notes
 importance: 1
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
