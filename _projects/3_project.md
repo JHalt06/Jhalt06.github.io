@@ -2,7 +2,7 @@
 layout: page
 title: Symposium Notes
 description: Imagine never having to take notes again. Symposium Notes is your AI-powered assistant that records, transcribes, and summarizes your lectures, meetings allowing you to pay full attention.
-img: assets/img/time-tailor-thumbnail.png
+img: assets/img/7.jpg
 redirect: https://devpost.com/software/symposium-notes
 importance: 1
 category: fun

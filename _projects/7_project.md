@@ -2,7 +2,7 @@
 layout: page
 title: Time Tailor
 description: Pick a movement, case, dial, hands, crown, and strap from community-uploaded parts to mock up your dream watch, share it, and buy the exact components via links.
-img: assets/img/7.jpg
+img: assets/img/time-tailor-thumbnail.png
 redirect: https://devpost.com/software/timetailor
 importance: 2
 category: fun
